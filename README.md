@@ -6,7 +6,7 @@ A 2D shooting game built entirely using **Jetpack Compose**. Explore interactive
 
 ## 🎥 Demo  
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/00oh-Whn3xQ))  
+[![Watch the Demo](https://youtube.com/shorts/00oh-Whn3xQ?feature=share)  
 *Click the image above to watch the gameplay video.*
 
 ---
